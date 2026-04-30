@@ -1,6 +1,5 @@
 ## Hi there 👋
-# Arjun Singh Gangwar  
-**`@007arjungangwar`**
+# Arjun Singh Gangwar 
 
 🔬 Data Scientist & Researcher | M.Tech Data Science @ IIT Palakkad  
 🎓 Former Assistant Professor | CSIR-NET, GATE, IIT-JAM, CTET  
